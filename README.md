@@ -1,2 +1,2 @@
 # XLActionSheet
-Xamarin bingind for XLActionController
+Xamarin IOS binding for XLActionController
